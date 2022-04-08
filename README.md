@@ -13,6 +13,7 @@ pip2 install bs4
 JALANKAN
 
 cd Army
+
 python2 face.py
 
 
